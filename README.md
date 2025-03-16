@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="" width="200" style="border-radius: 50%; box-shadow: 0 0 20px #20C20E; margin-bottom: 20px;"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&width=550&lines=Embedded+Systems+Engineer;Reverse+Engineering+Enthusiast;C%2B%2B%2FC%2FPython+Developer;IoT+Wizard+%F0%9F%94%A5)](https://git.io/typing-svg)
-</div>
 
 <div align="left">
   <pre style="color: #20C20E; font-family: 'Courier New', monospace;">
