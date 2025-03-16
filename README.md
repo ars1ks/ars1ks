@@ -6,7 +6,7 @@
 
 ---
 
-## 👨💻 **Обо мне**
+## 💻 **Обо мне**
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ4YjJ5d3J5eXJhd3I2aHh3M2x2Z3J6d2R5MGN4Z2FjZzV1aG1zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250">
 
 ```c
@@ -28,8 +28,8 @@
 
 <img src="https://img.shields.io/badge/Ghidra-007ACC?style=for-the-plastic&logo=ghidra&logoColor=white"/> <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-plastic&logo=hex-rays&logoColor=white"/> <img src="https://img.shields.io/badge/OpenOCD-3DDC84?style=for-the-plastic"/>
 
-📊 Моя статистика
+📊 **Моя статистика**
 <div align="center"> <a href="https://leetcode.com/ars1ks/"> <img src="https://leetcard.jacoblin.cool/ars1ks?theme=dark&font=Abel&ext=contest" width="45%"/> </a> <img src="https://github-readme-stats.vercel.app/api?username=ars1ks&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="45%"/> </div><div align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ars1ks&theme=react-dark&hide_border=true&area=true"/> </div>
 
-📡 Контакты
+📡 **Контакты**
 <p align="left"> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-plastic&logo=gmail&logoColor=white"/> </a> <a href="https://t.me/your_telegram"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-plastic&logo=telegram&logoColor=white"/> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-plastic&logo=linkedin&logoColor=white"/> </a> </p>
