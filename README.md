@@ -7,19 +7,19 @@
   <pre style="color: #20C20E; font-family: 'Courier New', monospace;">
     ╔════════════════════════════════════════════════════════════════════════════════════════════╗
     ║                                                                                            ║
-    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$ whoami</span>                                                              ║
-    ║  <span style="color: #20C20E;">* Embedded Systems Engineer</span>                                                          ║
-    ║  <span style="color: #20C20E;">* Security Researcher</span>                                                                ║
-    ║  <span style="color: #20C20E;">* Full-Stack Hacker</span>                                                                  ║
+    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$ whoami</span>                            ║
+    ║  <span style="color: #20C20E;">* Embedded Systems Engineer</span>                          ║
+    ║  <span style="color: #20C20E;">* Security Researcher</span>                                ║
+    ║  <span style="color: #20C20E;">* Full-Stack Hacker</span>                                  ║
     ║                                                                                            ║
-    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$ cat skills.txt</span>                                                    ║
-    ║  <span style="color: #20C20E;">▸ Languages: C++ | C | Python | Assembly | SQL</span>                                       ║
-    ║  <span style="color: #20C20E;">▸ Hardware: STM32 | ESP32 | Arduino </span>                                   ║
-    ║  <span style="color: #20C20E;">▸ Web: Django | REST API | PostgreSQL | HTML/CSS</span>                                     ║
-    ║  <span style="color: #20C20E;">▸ Security: Burp Suite | Cryptography | PenTesting</span>                                    ║
-    ║  <span style="color: #20C20E;">▸ Protocols: UART | SPI | I2C | CAN | HTTP/HTTPS</span>                                      ║
+    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$ cat skills.txt</span>                    ║
+    ║  <span style="color: #20C20E;">▸ Languages: C++ | C | Python | Assembly | SQL</span>       ║
+    ║  <span style="color: #20C20E;">▸ Hardware: STM32 | ESP32 | Arduino </span>                 ║
+    ║  <span style="color: #20C20E;">▸ Web: Django | REST API | PostgreSQL | HTML/CSS</span>     ║
+    ║  <span style="color: #20C20E;">▸ Security: Burp Suite | Cryptography | PenTesting</span>   ║
+    ║  <span style="color: #20C20E;">▸ Protocols: UART | SPI | I2C | CAN | HTTP/HTTPS</span>     ║
     ║                                                                                            ║
-    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$</span> <span style="color: #20C20E; animation: blink 1s infinite;">_</span>                                                             ║
+    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$</span> <span style="color: #20C20E; animation: blink 1s infinite;">_</span>║
     ║                                                                                            ║
     ╚════════════════════════════════════════════════════════════════════════════════════════════╝
   </pre>
