@@ -34,5 +34,5 @@
 
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=vision-friendly-dark&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=vision-friendly-dark&hide_border=true"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ars1ks&show_icons=true&theme=vision-friendly-dark&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=vision-friendly-dark&hide_border=true"/> </div>
 <div align="center"> <a href="https://leetcode.com/ваш_профиль/"> <img src="https://leetcard.jacoblin.cool/ars1ks?theme=dark&font=Abel" width="400"/> </a> </div>
