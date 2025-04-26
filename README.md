@@ -1,126 +1,54 @@
-<div align="left">
-  <pre style="color: #20C20E; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.4; margin-left: 0;">
-    ╔════════════════════════════════════════════════════════════════════════════════════════════╗
-    ║                                                                                            ║
-    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$</span> <span id="terminal-command" style="color: #FF5555; text-shadow: 0 0 5px #FF5555;">whoami</span>                                                       ║
-    ║  <span style="color: #20C20E;">┌─</span><span style="color: #FF79C6;">[</span><span style="color: #50FA7B;">✗</span><span style="color: #FF79C6;">]─[</span>Embedded Systems Engineer<span style="color: #FF79C6;">]</span>                                                  ║
-    ║  <span style="color: #20C20E;">├─</span><span style="color: #FF79C6;">[</span><span style="color: #50FA7B;">✓</span><span style="color: #FF79C6;">]─[</span>Security Researcher<span style="color: #FF79C6;">]</span>                                                          ║
-    ║  <span style="color: #20C20E;">└─</span><span style="color: #FF79C6;">[</span><span style="color: #50FA7B;">★</span><span style="color: #FF79C6;">]─[</span>Full-Stack Hacker<span style="color: #FF79C6;">]</span>                                                            ║
-    ║                                                                                            ║
-    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$</span> <span style="color: #FF5555; text-shadow: 0 0 5px #FF5555;">cat skills.txt</span>                                                  ║
-    ║  <span style="color: #BD93F9;">⟫</span> <span style="color: #8BE9FD;">Languages:</span>    C++ | C | Python | Assembly | Rust | SQL                                ║
-    ║  <span style="color: #BD93F9;">⟫</span> <span style="color: #8BE9FD;">Hardware:</span>     STM32 | ESP32 | Arduino | Raspberry Pi | FPGA                         ║
-    ║  <span style="color: #BD93F9;">⟫</span> <span style="color: #8BE9FD;">Web:</span>          Django | FastAPI | REST | PostgreSQL | HTML/CSS/JS                   ║
-    ║  <span style="color: #BD93F9;">⟫</span> <span style="color: #8BE9FD;">Security:</span>     Burp Suite | Ghidra | IDA Pro | Cryptography | Pentesting            ║
-    ║  <span style="color: #BD93F9;">⟫</span> <span style="color: #8BE9FD;">Protocols:</span>   UART | SPI | I2C | CAN | USB | HTTP/HTTPS | MQTT                     ║
-    ║                                                                                            ║
-    ║  <span style="color: #20C20E;">[ars1ks@matrix ~]$</span> <span style="color: #FF5555; text-shadow: 0 0 5px #FF5555; animation: blink 1s infinite;">_</span>                                                               ║
-    ║                                                                                            ║
-    ╚════════════════════════════════════════════════════════════════════════════════════════════╝
-  </pre>
+<!-- Аниме-баннер -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/58/e9/10/58e9100d8e551105cf4aae0b8d57f0a1.gif" width="800">
 </div>
 
-<h2 align="left">⚡ Технологический арсенал</h2>
+# ようこそ! 👾 [Akame_Developer_San]
 
-<div align="left">
+<div align="center">
   
-**🖥️ Языки & Фреймворки**  
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-plastic&logo=c%2B%2B&logoColor=white&logoWidth=20" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-plastic&logo=c&logoColor=white&logoWidth=20" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-plastic&logo=python&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-plastic&logo=rust&logoColor=white" class="hover-scale"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-plastic&logo=django&logoColor=white" class="hover-scale"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-plastic&logo=fastapi&logoColor=white" class="hover-scale"/>
-
-**🔌 Оборудование & Платформы**  
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-plastic&logo=stmicroelectronics&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-plastic&logo=espressif&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-plastic&logo=arduino&logoColor=white" class="hover-scale"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-plastic&logo=raspberrypi&logoColor=white" class="hover-scale"/>
-<img src="https://img.shields.io/badge/FPGA-7F52FF?style=for-the-plastic&logo=xilinx&logoColor=white" class="hover-scale"/>
-
-**🔐 Безопасность & Анализ**  
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-plastic&logo=burpsuite&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/Ghidra-007ACC?style=for-the-plastic&logo=ghidra&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-plastic&logo=hex-rays&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/Radare2-5D8FDF?style=for-the-plastic&logo=radare&logoColor=white" class="hover-scale"/>
-<img src="https://img.shields.io/badge/Pentesting-FF6D00?style=for-the-plastic&logo=metasploit&logoColor=white" class="hover-scale"/>
-
-**⚙️ Инструменты & Утилиты**  
-<img src="https://img.shields.io/badge/OpenOCD-3DDC84?style=for-the-plastic&logo=gnu&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/GDB-4B32C3?style=for-the-plastic&logo=gnu&logoColor=white" class="hover-scale"/> 
-<img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-plastic&logo=qemu&logoColor=white" class="hover-scale"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-plastic&logo=docker&logoColor=white" class="hover-scale"/>
-
-</div>
-
-<h2 align="left">📊 Статистика и достижения</h2>
-
-<div align="left">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&border_radius=10&mode=weekly)](https://git.io/streak-stats)
   
-**👨‍💻 Активность на GitHub**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ars1ks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ars1ks)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ars1ks&layout=compact&theme=radical&hide_border=true)](https://github.com/ars1ks)
-
-**🧠 Алгоритмы (LeetCode)**  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ars1ks?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/ars1ks/)
-
-**🎮 CodebyGames CTF**  
-<!-- Временное решение для CodebyGames -->
-<div style="border: 2px solid #444; padding: 10px; display: inline-block; background: #111; border-radius: 5px;">
-  <img src="https://via.placeholder.com/400x150/111111/20C20E?text=CodebyGames+Stats+Placeholder" alt="CodebyGames Stats" class="hover-scale"/>
-</div>
-
-**📈 График активности**  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ars1ks&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity)](https://github.com/ars1ks)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Noto%20Sans)
+  
+  ![HackTheBox](https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+  ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
 
 </div>
 
-<h2 align="left">📡 Контакты</h2>
+## 🛠️ Технологический арсенал
 
-<div align="left">
-  <a href="mailto:your@email.com" style="text-decoration: none; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-plastic&logo=gmail&logoColor=white" class="hover-scale"/>
-  </a>
-  <a href="https://t.me/your_telegram" style="text-decoration: none; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-plastic&logo=telegram&logoColor=white" class="hover-scale"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile" style="text-decoration: none; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-plastic&logo=linkedin&logoColor=white" class="hover-scale"/>
-  </a>
-  <a href="https://codeby.games/profile/ars1ks" style="text-decoration: none; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/CodebyGames-FF6C37?style=for-the-plastic&logo=gamejolt&logoColor=white" class="hover-scale"/>
-  </a>
-  <a href="https://leetcode.com/ars1ks/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-plastic&logo=leetcode&logoColor=white" class="hover-scale"/>
-  </a>
+### 💻 Языки и платформы
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### 🔧 Инструменты
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6C37?style=for-the-badge&logo=hex-rays&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+## 🌸 Аниме-зона разработки
+
+<div align="center">
+  <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-anime.gif" width="300">
+  <img src="https://i.gifer.com/origin/0b/0b4f9d6a3e1f7d8e8f7d9c9d3f3d3d3.gif" width="300">
 </div>
 
-<style>
-  .hover-scale {
-    transition: transform 0.2s ease;
-  }
-  .hover-scale:hover {
-    transform: scale(1.1);
-  }
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
+### 🎵 Текущий саундтрек
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/yourprofile)
 
-<script>
-  // Интерактивная смена команд в терминале
-  document.addEventListener('DOMContentLoaded', function() {
-    const commands = ["whoami", "cat skills.txt", "uname -a", "ls -la", "netstat -tulnp"];
-    let currentCommand = 0;
-    const commandElement = document.getElementById('terminal-command');
-    
-    if (commandElement) {
-      setInterval(() => {
-        currentCommand = (currentCommand + 1) % commands.length;
-        commandElement.textContent = commands[currentCommand];
-      }, 3000);
-    }
-  });
-</script>
+### 💡 Проектные идеи
+```python
+def coding_session():
+    while coffee.is_available() and not deadline.passed():
+        try:
+            code.debug()
+        except HackerVoiceInside:
+            play_anime_op()
+            hack_the_world()
+```
+📡 Контакт-чакра
+<div align="center"> <a href="https://t.me/yourprofile"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> <a href="mailto:youremail@domain.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </a> </div><!-- Аниме-футер --><div align="center"> <img src="https://media1.tenor.com/images/0c9af4b0fbb9f3cf4c1b0e4f8f0a3f8c/tenor.gif" width="200"> </div> 
