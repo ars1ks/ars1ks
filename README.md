@@ -1,65 +1,35 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+HELLO+WORLD!+I'M+C%2B%2B+BACKEND+ENGINEER;%F0%9F%92%BB+SYSTEM+PROGRAMMING+%7C+LINUX+KERNEL+%7C+DEVOPS;%F0%9F%93%81+NETWORK+ARCHITECT+%7C+gRPC+EXPERT+%7C+EMBEDDED+HOBBYIST" alt="Animated header" /> </h1><div align="center">
-🔧 TECHNOLOGICAL ARSENAL
-diff
-+---------------------- CORE DEVELOPMENT ----------------------+
-| C++17/20       Python3.11         Bash5.2          Asio      |
-+-------------------------------------------------------------+
-+--------------------- INFRASTRUCTURE -------------------------+
-| Docker          Kubernetes        Prometheus        Grafana   |
-| Containerd      Helm             Alertmanager                |
-+-------------------------------------------------------------+
-+------------------- EMBEDDED & LINUX -------------------------+
-| Arch Linux      STM32            ESP32             IoT       |
-| Custom Kernels  Electronics      Soldering                   |
-+-------------------------------------------------------------+
-🌐 NETWORK & PROTOCOL STACK
-diff
-+ gRPC • Protobuf • TCP/IP • UDP • HTTP2 • WebSockets • REST +
-</div>
-🎮 HOBBIES & PASSIONS:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=C%2B%2B+DevOps+Engineer;Systems+Architect;Cloud+Automation" alt="Animated Title" />
+</p>
 
-bash
-# Электроника: пайка микроконтроллеров (STM32, ESP32)
-# DIY проекты: IoT решения и программирование на С
-# Оптимизация Linux: кастомные ядра, low-latency тюнинг
-📝 TECHNICAL BLOG
-diff
-- Регулярно пишу о системном программировании и DevOps -
-[![Telegram Channel](https://img.shields.io/badge/TELEGRAM_BLOG-26A5E4?style=flat&logo=telegram&logoColor=000000)](https://t.me/ars1ksarch)
-📊 STATISTICS
-LeetCode:
-diff
-+------------------ LEETCODE PROFILE ------------------+
-| [![LeetCode](https://leetcard.jacoblin.cool/ars1ks?theme=dark&border=0&radius=20)](https://leetcode.com/ars1ks/) |
-+-----------------------------------------------------+
-GitHub:
-diff
-+------------------- GITHUB METRICS -------------------+
-| [![Stats](https://github-readme-stats.vercel.app/api?username=ars1ks&show_icons=true&theme=dark&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14)](https://github.com/ars1ks) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ars1ks&layout=compact&theme=dark&bg_color=000000&title_color=39FF14)](https://github.com/ars1ks) |
-+-----------------------------------------------------+
-🔗 CONTACTS
-diff
-# Ключевые каналы связи:
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=000000)](ваша_ссылка)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat&logo=telegram&logoColor=000000)](ваша_ссылка)
-<details> <summary><h3>🚀 SYSTEM BOOT SEQUENCE</h3></summary>
-bash
-[  OK  ] Mounted Debug FS
-[  OK  ] Loaded Kernel Modules
-[  OK  ] Started Network Stack
-[  OK  ] Initialized C++ Runtime
-[  OK  ] Started gRPC Services
-[  OK  ] Activated Monitoring Agents
-       ___           ___         ___     
-      /  /\         /  /\       /__/|    
-     /  /::\       /  /::\     |  |:|    
-    /  /:/\:\     /  /:/\:\    |  |:|    
-   /  /:/  \:\   /  /:/  \:\ __|__|:|    
-  /__/:/ \__\:\ /__/:/ \__\:\/__/::::\____
-  \  \:\ /  /:/ \  \:\ /  /:/   ~\~~\::::/
-   \  \:\  /:/   \  \:\  /:/      |~~|:|~~ 
-    \  \:\/:/     \  \:\/:/       |  |:|   
-     \  \::/       \  \::/        |  |:|   
-      \__\/         \__\/         |__|/   
-</details><style> img[src*="github-readme-stats"] { border: 1px solid #39FF14 !important; border-radius: 8px !important; } img[src*="leetcard"] { border-radius: 15px !important; box-shadow: 0 0 10px rgba(57, 255, 20, 0.5); } </style>
+---
+
+### ⚙️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,docker,kubernetes,linux,aws,gcp,azure,githubactions,prometheus,grafana,ansible,git" alt="tech icons" />
+</div>
+
+---
+
+### 🏗️ Featured Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Cloud Orchestrator](link)** | Kubernetes-based infrastructure for microservices | C++20 • Helm • AWS |
+| **[CI/CD Pipeline](link)** | Custom build system for high-performance apps | GitHub Actions • Docker • Prometheus |
+| **[Monitoring Toolkit](link)** | Real-time metrics collection system | C++ • Grafana • gRPC |
+
+---
+
+### 📊 Activity
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&hide=html,css" />
+</div>
+`![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fars1ks&logo=leetcode&logoColor=yellow)`
+---
+
+### 📬 Connect
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat" alt="Telegram">
+  </a>
+</div>
