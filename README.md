@@ -22,20 +22,13 @@
 
 ---
 
-### 🏗️ Featured Projects
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[High-Perf Backend](link)** | Low-latency C++ gRPC service | C++20 • gRPC • Arch |
-| **[Embedded Toolkit](link)** | Hardware control interface | C++ • Python • Soldering |
-| **[CTF Solutions](link)** | Writeups and exploit code | Python • Binary Analysis |
 
----
 
 ### 📊 Activity
 <div align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&hide_title=true&bg_color=00000000" />
   [![LeetCode Stats](https://leetcode.card.workers.dev/?username=ars1ks&theme=dark&font=source_code_pro&extension=activity)](https://leetcode.com/u/ars1ks/)
-</div>
+</div>v>
 
 ---
 
