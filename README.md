@@ -32,12 +32,12 @@
 ---
 
 ### 📊 Activity
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&hide_title=true" />
-  ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&label=LeetCode&labelColor=black&color=%23ffa116&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fars1ks&logo=leetcode&logoColor=yellow)
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&hide_title=true&bg_color=00000000" />
+  [![LeetCode Stats](https://leetcode.card.workers.dev/?username=ars1ks&theme=dark&font=source_code_pro&extension=activity)](https://leetcode.com/u/ars1ks/)
 </div>
 
 ---
 
 ### 📬 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat)](https://t.me/ars1ksarch)
