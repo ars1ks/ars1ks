@@ -26,10 +26,10 @@
 
 ### 📊 Activity
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&hide_title=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ars1ks&show_icons=true&theme=transparent&hide_border=true&hide_title=true&bg_color=00000000" />
+  
   [![LeetCode Stats](https://leetcode.card.workers.dev/?username=ars1ks&theme=dark&font=source_code_pro&extension=activity)](https://leetcode.com/u/ars1ks/)
-</div>v>
-
+</div>
 ---
 
 ### 📬 Connect
