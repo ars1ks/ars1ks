@@ -1,37 +1,91 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&width=435&lines=C%2B%2B+Backend+%26+DevOps+Engineer;Arch+Linux+Enthusiast;CTF+Player" alt="Header" />
-</p>
+<h1 align="left">Привет, я ars1ks</h1>
 
----
+###
 
-### ⚙️ Tech Stack
-![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<img align="left" height="450" src="https://media1.tenor.com/m/hmIAHNMWePIAAAAd/%D1%83%D1%82%D0%B5%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D1%81%D1%8C-%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D1%86%D0%B5%D0%B9.gif"  />
 
----
+###
 
-### 🧩 Hobbies
-- 🔐 Playing CTF competitions
-- 🔧 Soldering microchips and hardware tinkering
-- 🐧 Customizing Arch Linux environments
-- 🚀 Optimizing C++ backend systems
+<h1 align="left">Используемые мной языки:</h1>
 
----
+###
 
-
-
-### 📊 Activity
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ars1ks&show_icons=true&theme=transparent&hide_border=true&hide_title=true&bg_color=00000000" />
-  
-  [![LeetCode Stats](https://leetcode.card.workers.dev/?username=ars1ks&theme=dark&font=source_code_pro&extension=activity)](https://leetcode.com/u/ars1ks/)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
 </div>
 
----
+###
 
-### 📬 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat)](https://t.me/ars1ksarch)
+<h1 align="left">Использыемые мной технологии:</h1>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+</div>
+
+###
+
+<h1 align="left">Мои операционные системы:</h1>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="archlinux logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="windows logo" />
+</div>
+
+###
+
+<h1 align="left">Мои соц. сети:</h1>
+
+###
+
+<div align="left">
+  <a href="https://t.me/ars1ks" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="telegram logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/ars1ks" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo" />
+  </a>
+  <img width="12" />
+  <a href="https://leetcode.com/u/ars1ks/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="leetcode logo" />
+  </a>
+</div>
+
+###
+
+<h1 align="left">Моя статистика LeetCode:</h1>
+
+###
+
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/ars1ks?theme=dark&font=Noto%20Sans%20SC" alt="LeetCode Stats" />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="400" src="https://media1.tenor.com/m/mxxAtAB73scAAAAC/pachi5-gushing-over-magical-girls.gif"  />
