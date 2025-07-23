@@ -37,11 +37,12 @@
 </div>
 
 <h1 align="left">Мои операционные системы:</h1>
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-</div>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="archlinux logo" />
+  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" height="30" alt="android logo" />
+
+</div> 
 
 <h1 align="left">Мои соц. сети:</h1>
 
