@@ -44,8 +44,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="archlinux logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="windows logo" />
 </div>
 
 ###
