@@ -2,9 +2,12 @@
 
 ###
 
-<div align="left">
-  <img height="300" src="https://media1.tenor.com/m/hmIAHNMWePIAAAAd/%D1%83%D1%82%D0%B5%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D1%81%D1%8C-%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D1%86%D0%B5%D0%B9.gif" />
+<div align="center">
+    <p>
+        <img alt="count" src="https://count.getloli.com/@ars1ks?name=ars1ks&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1">
+    </p>
 </div>
+
 
 ###
 
