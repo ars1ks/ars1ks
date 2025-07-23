@@ -18,9 +18,9 @@
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
 </div>
 
-<h1 align="center">Использыемые мной технологии:</h1>
+<h1 align="left">Использыемые мной технологии:</h1>
 
-<div align="centre">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
