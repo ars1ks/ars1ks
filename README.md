@@ -41,15 +41,8 @@
 </div>
 
 ###
-
-<h2 align="left">📊 LeetCode Stats</h2>
-
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/ars1ks?theme=dark&font=Noto%20Sans%20SC&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-<br>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ars1ks&label=Profile%20views&color=0e75b6&style=flat" alt="ars1ks" />
-</div>
