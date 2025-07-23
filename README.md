@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
     <p>
         <img alt="count" src="https://count.getloli.com/@ars1ks?name=ars1ks&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1">
     </p>
