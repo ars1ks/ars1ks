@@ -8,7 +8,6 @@
 
 <h1 align="left">Используемые мной языки:</h1>
 
-
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -37,46 +36,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
 
-
 <h1 align="left">Мои операционные системы:</h1>
 
-###
-
 <div align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="archlinux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo" />
 </div>
-
-###
 
 <h1 align="left">Мои соц. сети:</h1>
 
-###
-
 <div align="left">
   <a href="https://t.me/ars1ks" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="telegram logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="40" alt="telegram logo" />
   </a>
   <img width="12" />
   <a href="https://github.com/ars1ks" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </a>
   <img width="12" />
   <a href="https://leetcode.com/u/ars1ks/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="leetcode logo" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="leetcode logo" />
   </a>
 </div>
 
-###
-
 <h1 align="left">Моя статистика LeetCode:</h1>
-
-###
 
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/ars1ks?theme=dark&font=Noto%20Sans%20SC" alt="LeetCode Stats" />
 </div>
 
-###
-
 <br clear="both">
-
