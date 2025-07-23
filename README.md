@@ -8,7 +8,6 @@
 
 <h1 align="left">Используемые мной языки:</h1>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -20,11 +19,7 @@
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
 </div>
 
-###
-
 <h1 align="left">Использыемые мной технологии:</h1>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
@@ -42,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
 
-###
 
 <h1 align="left">Мои операционные системы:</h1>
 
@@ -88,4 +82,3 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://media1.tenor.com/m/mxxAtAB73scAAAAC/pachi5-gushing-over-magical-girls.gif"  />
