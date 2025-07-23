@@ -41,22 +41,17 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo" />
 </div>
 
 <h1 align="left">Мои соц. сети:</h1>
 
 <div align="left">
-  <a href="https://t.me/ars1ks" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="40" alt="telegram logo" />
-  </a>
   <img width="12" />
   <a href="https://github.com/ars1ks" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </a>
-  <img width="12" />
-  <a href="https://leetcode.com/u/ars1ks/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="leetcode logo" />
+    <a href="https://t.me/ars1ks" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="telegram logo" />
   </a>
 </div>
 
