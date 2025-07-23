@@ -48,9 +48,6 @@
 
 <div align="left">
   <img width="12" />
-  <a href="https://github.com/ars1ks" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  </a>
     <a href="https://t.me/ars1ks" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="telegram logo" />
   </a>
